@@ -5,7 +5,10 @@ url: "https://nrnimesh.github.io" # <- Replace with your actual GitHub Pages URL
 logo: "/assets/images/logo.jpeg"
 favicon_ico: "/assets/images/favicon.ico"
 
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
 markdown: kramdown
 
 color_scheme: dark
