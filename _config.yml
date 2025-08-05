@@ -1,4 +1,36 @@
-title: nrOps_
-remote_theme: pages-themes/slate@v0.2.0
-plugins:
-- jekyll-remote-theme
+title: "nrOps_"
+description: "My Blog Page"
+baseurl: "" # Leave empty for user.github.io (root site)
+url: "https://nrnimesh.github.io" # <- Replace with your actual GitHub Pages URL
+logo: "/assets/images/logo.jpeg"
+favicon_ico: "/assets/images/favicon.ico"
+
+theme: just-the-docs
+markdown: kramdown
+
+color_scheme: dark
+
+social_links:
+  - name: GitHub
+    link: https://github.com/nrnimesh
+  
+collections:
+  tradecraft:
+    output: true
+    permalink: /tradecraft/:name/
+  dissected:
+    output: true
+    permalink: /dissected/:name/
+
+sass:
+  custom_dir: _sass/custom
+
+nav_enabled: true
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+footer_content: "Copyright &copy; 2025 Nimesh Nair. All rights reserved."
