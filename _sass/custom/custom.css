@@ -1,0 +1,21 @@
+a {
+  color: #e2e2e2; /* Light gray for dark backgrounds */
+  text-decoration: none; /* Remove underline */
+  font-weight: 500;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: #00bcd4; /* Cyan or your accent color */
+  text-decoration: underline; /* Subtle feedback on hover */
+}
+
+
+/* _sass/custom.scss */
+body {
+  background-image: url('/assets/images/bg.png');
+  background-size: cover;
+  background-attachment: fixed;
+  background-color: #000;
+}
+
