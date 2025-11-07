@@ -17,7 +17,7 @@ I’m trying to break, build, and learn deeply.
 ## 📘 About Me
 
 - 🧠 Background in Cybersecurity & Computer Applications
-- 🛡️ ISC2 Certified in Cybersecurity (CC), EC-Council CEH
+- 🛡️ ISC2 Certified in Cybersecurity (CC), EC-Council CEH, OSCP
 - 🎓 Completed Postgraduate in Cybersecurity
 - 🏅 Completed [Pentration Tester](https://academy.hackthebox.com/achievement/badge/a052a061-4863-11f0-bcfd-bea50ffe6cb4) Path from HTB-Academy 
 
