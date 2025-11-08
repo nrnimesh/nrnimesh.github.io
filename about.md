@@ -24,5 +24,5 @@ I’m trying to break, build, and learn deeply.
 - [![HackTheBox](https://img.shields.io/badge/HTB-%2300b58a.svg?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/1301916)
 - [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nrnimesh)
 - [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23ff3c00.svg?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Oprah)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nimesh-nair-/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nimesh-nr/)
 
